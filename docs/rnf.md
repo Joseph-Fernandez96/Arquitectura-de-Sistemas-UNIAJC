@@ -8,8 +8,8 @@
 |   |             |infraestructura de       | servidor y base  |                           |zadas en el prov-|                                |
 |   |             |nube.                    | datos.           |                           |eedor cloud.     |                                |
 |---|-------------|-------------------------|------------------|---------------------------|-----------------|--------------------------------|
-| 3 |             |                         |                  |                           |                 |                                |
-
+| 3 | Seguridad   | Cifrado de datos en transito y reposo | 100% de los datos cifrados (TLS 1.3 / AES-256) | Operacion normal y picos de trafico | Auditoria de configuracion y escaneo de vulnerabilidades | Exposicion de datos sensibles y penalizaciones legales/regulatorias |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Escenarios completos### 
 Escenario 1
